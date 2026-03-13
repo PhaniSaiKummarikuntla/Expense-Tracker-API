@@ -1,0 +1,1 @@
+DATABASE = "expenses.db"
