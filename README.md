@@ -24,7 +24,12 @@ Run locally:
 
 python run.py
 
-Run with Docker:
+## Run Using Docker
+
+Build Docker image
 
 docker build -t expense-tracker-api .
+
+Run container
+
 docker run -p 5000:5000 expense-tracker-api
